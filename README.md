@@ -18,11 +18,11 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-- 🔥 Current stats:
+<h4> 🔥 Current stats: </h4>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krasnikovra)](https://git.io/streak-stats)
 
-Most used languages:
+<h4> 🖥️ Most used languages: </h4>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krasnikovra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
