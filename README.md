@@ -1,6 +1,6 @@
 <h3 align="center"> Hi there, I'm Roman 👋 </h3>
 
-👨‍🎓 I'm currently studying for bachelor degree in Applied mathematics and Computer Science at Peter the Great St.Petersburg Polytechnic University.
+👨‍🎓 I'm currently studying for master degree in Applied mathematics and Computer Science at Peter the Great St.Petersburg Polytechnic University.
 
 <h4> 📫 How to reach me: </h4>
 
